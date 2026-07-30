@@ -1,17 +1,16 @@
+// the comparison operator we used to compare between two values 
+// and the output will be in true or false state
 
-// the = is used to asign a value
+let number1 = 10;
+let number2 = 20;
 
-let messages = 100;
-let readMessages = 25;
-let unreadMessages = messages - readMessages;
+console.log(number1 > number2); // it prints which number is higher
 
+console.log(number1 < number2);
 
-let newMessages = 10;
-messages += newMessages;
-console.log(messages);
+console.log(number1 != number2);
 
+console.log(number1 >= number2);
 
-// like += we can use all the arthametic operators 
-//  -=
-//  *=
-//  /=
+console.log(number1 <= number2);
+
