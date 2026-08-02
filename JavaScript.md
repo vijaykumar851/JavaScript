@@ -76,3 +76,17 @@
 * In The operators there are first Priority are brakes and the second Priority is multiplication and division and the Third Priority is addition and subtraction.
 * In operators we can two different way like one merge the two String it act as adding one by one.
 * In second one is doing some calculation in the number and float value.
+
+
+##### **Day - 2**
+
+###### Statement
+
+* **There are different types of statements in JavaScript**
+1. Conditional statements -> "if, else if ,else ,switch, case" this are the conditional statement in the JavaScript.
+
+2\. control statements -> break, continue, return.
+
+3\. Iterative statements -> for, while, do while this are three loop are used in the JavaScript.
+
+4\. Exception Handling Statements -> try, catch, throw and throws.
