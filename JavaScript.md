@@ -51,3 +51,16 @@
 
 \- The Third one is const means we change the value in the value and it also a block scope keyword. The const is can't Reassigned the value because it fix with one variable only.
 
+
+###### Datatypes
+
+
+
+\- There are seven Primitive Data Types are String, number, Boolean, Undefined, Null, Symbol, BigInt
+
+* This datatypes we can use for type conversion only.
+* There are main four Datatypes are used in the JavaScript there are number, Boolean, String, float
+
+\- There are one Non-Primitive (Reference) Data Type is object is not but dictionaries storing like key value pairs
+
+* In non-primitive datatype if can give the value in unorder in the console it will take as order file only like if take first-name, last-name and course but it will take first as course then it move order vias only.
