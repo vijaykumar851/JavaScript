@@ -64,3 +64,15 @@
 \- There are one Non-Primitive (Reference) Data Type is object is not but dictionaries storing like key value pairs
 
 * In non-primitive datatype if can give the value in unorder in the console it will take as order file only like if take first-name, last-name and course but it will take first as course then it move order vias only.
+
+
+###### operations
+
+\- The operations are Arithmetic, assignment, Comparison, Logical operations
+
+* the Arithmetic operators is names because used for simple calculation
+* The operators are used in our day to day life like using Amazon for ordering the items.
+* comparison operators are used to compare with any thing like two person age we can comparison is used.
+* In The operators there are first Priority are brakes and the second Priority is multiplication and division and the Third Priority is addition and subtraction.
+* In operators we can two different way like one merge the two String it act as adding one by one.
+* In second one is doing some calculation in the number and float value.
