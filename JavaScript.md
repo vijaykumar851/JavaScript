@@ -102,3 +102,11 @@ some statement we can't use else if it completed in two statement only.
 **else statement :** It is an finally statement IF statement is false then it should printed default
 
 switch and case statement there is only one switch condition and multiply case condition it is like if-else condition
+
+
+##### **Loop statements or iterative statements**
+
+* The loop statements are three types like for loop, while loop and do while loop through this we can print n number of values and element
+* In for Loop we can manipulate the starting and ending number. we can  also know the starting and ending number.
+* The real time example for loop is taking a chocolate one by one in box.
+* In while loop we can't know the count of the values it relies on condition.
