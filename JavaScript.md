@@ -110,3 +110,10 @@ switch and case statement there is only one switch condition and multiply case c
 * In for Loop we can manipulate the starting and ending number. we can  also know the starting and ending number.
 * The real time example for loop is taking a chocolate one by one in box.
 * In while loop we can't know the count of the values it relies on condition.
+
+
+##### **Type-conversation and coercion**
+
+* The type conversation is change the datatype in manual
+* The type coercion is the JavaScript it only change the datatype automatically.
+* The JavaScript has advanced feature like it only change the datatype
