@@ -117,3 +117,8 @@ switch and case statement there is only one switch condition and multiply case c
 * The type conversation is change the datatype in manual
 * The type coercion is the JavaScript it only change the datatype automatically.
 * The JavaScript has advanced feature like it only change the datatype
+
+##### **truthy and falsely values**
+
+* The falsely value some are predefined like 0, -0, undefined, null, "",0n, false, NAN there are the predefined function that always gives the false.
+* The remaining value all comes under the true value.
