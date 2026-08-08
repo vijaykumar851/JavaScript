@@ -159,3 +159,21 @@ Example:
 const is online = function(status) { return status === "online";}
 
 console.log(is online("online"));
+
+
+##### **Day- 4** 
+
+###### **Objects**
+
+* collection of related propreties and/or methods can represent real world objects it contain the key value pairs 
+* We can access the object in two ways one is through dot notation like "student.name".
+* we can also use the square brackes Notation \[] to access the keys.
+* we can modifiy , delete , change the values in object.
+* We can use **this Keyoword** to refers to the cureent object itself This method allow to access other properties within the same object
+
+###### **Manipulate the html p age**
+
+**Different between the innerText and innerHTML**
+
+* innertext we can only manipulate the text contain in the page and the console
+* innerHtml we can replace the text with user text
